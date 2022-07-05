@@ -1,3 +1,0 @@
-echo "as"
-
-echo "as"echo "as"echo "as"
